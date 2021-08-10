@@ -2,7 +2,7 @@
 
 
 
-## Screenshoot
+## Screenshot
 
 ![Desktop](img1.PNG)
 ![Mobile](img2.PNG)
